@@ -1,4 +1,4 @@
-## Hi there, here's Rusul 👋
+## Hey there, here's Rusul 👋
 
 
 **Full-Stack Web Developer**[cite: 1]
