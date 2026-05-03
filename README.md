@@ -3,7 +3,7 @@
 
 **Full-Stack Web Developer**
 
-=Senior CS student passionate about the evolving tech landscape and its growing role in our daily lives, aiming to contribute to building systems that make everyday tasks simpler and more efficient.
+Senior CS student passionate about the evolving tech landscape and its growing role in our daily lives, aiming to contribute to building systems that make everyday tasks simpler and more efficient.
 
 ---
 
