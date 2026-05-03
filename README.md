@@ -4,7 +4,7 @@
 
 **Full-Stack Web Developer**
 
-I am a Computer Science student at Ain Shams University focused on building systems that solve practical problems. I’m passionate about the diversity of the tech industry and how it has become a major part of our daily lives. My goal is to be part of the tech that introduces system solutions to make our day-to-day routines easier.
+Computer Science student at Ain Shams University focused on building systems that solve practical problems. Passionate about the diversity of the tech industry and how it has become a major part of our daily lives. My goal is to be part of the tech that introduces system solutions to make our day-to-day routines easier.
 
 ---
 
