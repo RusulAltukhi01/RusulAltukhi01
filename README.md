@@ -36,5 +36,5 @@
 
 ### 📫 Reach Out
 
-*   **LinkedIn**: [/in/rusul-altukhi](https://linkedin.com/in/rusul-altukhi)[cite: 1]
-*   **Email**: [rusul.altukhi01@gmail.com](mailto:rusul.altukhi01@gmail.com)[cite: 1]
+*   **LinkedIn**: [/in/rusul-altukhi](https://linkedin.com/in/rusul-altukhi)
+*   **Email**: [rusul.altukhi01@gmail.com](mailto:rusul.altukhi01@gmail.com)
